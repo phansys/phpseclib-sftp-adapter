@@ -2,6 +2,7 @@
     "name": "gaufrette/phpseclib-sftp-adapter",
     "description": "PhpseclibSftp adapter for Gaufrette",
     "type": "metapackage",
+    "license": "MIT",
     "require": {
         "knplabs/gaufrette": "~0.3",
         "phpseclib/phpseclib": "^2.0"
